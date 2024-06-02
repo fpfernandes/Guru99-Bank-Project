@@ -21,7 +21,7 @@ The primary objective is to create a robust and detailed framework for testing, 
   
 ## Documentation
 * Software Requirements Specification
-Document outlining the software requirements and specifications for the project:
+- Document outlining the software requirements and specifications for the project:
 https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit
 
 ## Test Cases for Manager Page
