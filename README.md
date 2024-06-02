@@ -7,21 +7,21 @@ This project is focused on developing and documenting the entire test cycle usin
 The primary objective is to create a robust and detailed framework for testing, ensuring all aspects of the software are thoroughly evaluated and documented.
 
 ## Key Features
-* Test Scenarios:
-- Detailed scenarios covering various aspects of the application to ensure comprehensive test coverage.
+* Test Scenarios:<br/>
+ Detailed scenarios covering various aspects of the application to ensure comprehensive test coverage.
   
-* Test Cases:
-- Well-defined test cases incorporating techniques like Boundary-value Analysis (BVA) to handle edge cases and validate the robustness of the application.
+* Test Cases:<br/>
+ Well-defined test cases incorporating techniques like Boundary-value Analysis (BVA) to handle edge cases and validate the robustness of the application.
 
-* User Stories:
-- Clear and concise user stories capturing the end-users and stakeholders' requirements and expectations.
+* User Stories:<br/>
+ Clear and concise user stories capturing the end-users and stakeholders' requirements and expectations.
   
-* Acceptance Criteria:
-- Acceptance criteria are written using Gherkin syntax for Behavior-Driven Development (BDD).
+* Acceptance Criteria:<br/>
+ Acceptance criteria are written using Gherkin syntax for Behavior-Driven Development (BDD).
   
 ## Documentation
-* Software Requirements Specification
-- Document outlining the software requirements and specifications for the project:
+* Software Requirements Specification<br/>
+ Document outlining the software requirements and specifications for the project:
 https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit
 
 ## Test Cases for Manager Page
