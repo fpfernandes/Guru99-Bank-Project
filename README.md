@@ -21,11 +21,11 @@ The primary objective is to create a robust and detailed framework for testing, 
   
 ## Documentation
 * Software Requirements Specification<br/>
- Document outlining the software requirements and specifications for the project:
+ Document outlining the software requirements and specifications for the project (developed by GURU99):
 https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit
 
 ## Test Cases for Manager Page
-A comprehensive spreadsheet containing test cases specifically written for the Manager page:
+A comprehensive spreadsheet containing test cases specifically written for the Manager page (written by myself):
 https://docs.google.com/spreadsheets/d/1cregHvDxYTzb8rWnnHNG8Iq6MnuQOr6_5auw9SFMsvM/edit?usp=sharing
 
 ## Tools Used
