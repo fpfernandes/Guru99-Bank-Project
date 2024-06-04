@@ -34,4 +34,23 @@ https://docs.google.com/spreadsheets/d/1cregHvDxYTzb8rWnnHNG8Iq6MnuQOr6_5auw9SFM
 * JIRA: For issue tracking and project management.
 * Zephyr Scale: For advanced test management within JIRA.
 
+**Examples of user stories and acceptance criteria created on JIRA**<br/>
+
+![alt text](https://github.com/fpfernandes/Guru99-Bank-Project/blob/main/backlog.png)
+
+**Examples of user stories and acceptance criteria in detail created on JIRA**<br/>
+
+![alt text](https://github.com/fpfernandes/Guru99-Bank-Project/blob/main/story.png)
+
+**Example of epic created on JIRA**<br/>
+
+![alt text](https://github.com/fpfernandes/Guru99-Bank-Project/blob/main/epic.png)
+
+**Example of test cases created on Zephyr Scale **<br/>
+
+![alt text](https://github.com/fpfernandes/Guru99-Bank-Project/blob/main/test%20cases.png)
+
+**Example of test case in detail created on Zephyr Scale **<br/>
+
+![alt text](https://github.com/fpfernandes/Guru99-Bank-Project/blob/main/test%20case%20in%20detail.png)
   
