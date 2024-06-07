@@ -3,7 +3,7 @@
 ## Project: Comprehensive Test Cycle Documentation 
 
 ### Project Overview:
-This project is focused on developing and documenting the entire test cycle using tools such as Google Sheets, JIRA, and Zephyr Scale. 
+This project is focused on developing and documenting the entire test cycle  of a Banking website using tools such as Google Sheets, JIRA, and Zephyr Scale. 
 The primary objective is to create a robust and detailed framework for testing, ensuring all aspects of the software are thoroughly evaluated and documented.
 
 ## Key Features
