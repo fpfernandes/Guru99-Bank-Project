@@ -24,6 +24,10 @@ The primary objective is to create a robust and detailed framework for testing, 
  The document outlining the software requirements and specifications for the project (developed by GURU99):
 [Visit Link](https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit)
 
+## Project Guru99 Bank Test Plan
+Google Docs file containing the test plan for the project (written by myself):
+[Visit Link]https://docs.google.com/document/d/1A8HMwZueQpPwRMFB0DMJNg8-gOfhfl9a/edit)
+
 ## Test Cases for Manager Page
 A comprehensive spreadsheet containing test cases specifically written for the Manager page (written by myself):
 [Visit Link](https://docs.google.com/spreadsheets/d/1cregHvDxYTzb8rWnnHNG8Iq6MnuQOr6_5auw9SFMsvM/edit?usp=sharing)
