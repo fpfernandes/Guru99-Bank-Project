@@ -26,7 +26,7 @@ The primary objective is to create a robust and detailed framework for testing, 
 
 ## Project Guru99 Bank Test Plan
 Google Docs file containing the test plan for the project (written by myself):
-[Visit Link](https://docs.google.com/document/d/1A8HMwZueQpPwRMFB0DMJNg8-gOfhfl9a/edit)
+[Visit Link](https://docs.google.com/document/d/1A8HMwZueQpPwRMFB0DMJNg8-gOfhfl9a/edit?usp=sharing&ouid=118174211417331970156&rtpof=true&sd=true)
 
 ## Test Cases for Manager Page
 A comprehensive spreadsheet containing test cases specifically written for the Manager page (written by myself):
