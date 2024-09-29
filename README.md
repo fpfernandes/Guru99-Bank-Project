@@ -23,6 +23,8 @@ The primary objective is to create a robust and detailed framework for testing, 
 * Software Requirements Specification<br/>
  The document outlining the software requirements and specifications for the project (developed by GURU99):
 [Visit Link](https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit)
+* Mockups for Guru99 Bank <br/>
+[Visit Link](https://docs.google.com/document/d/1GTsaH6O9_hdHNlciR7PjdUyCvG1HU1OB/edit)
 
 ## Project Guru99 Bank Test Plan
 Google Docs file containing the test plan for the project (written by myself):
